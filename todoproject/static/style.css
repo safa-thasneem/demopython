@@ -1,0 +1,11 @@
+.Banner{
+    background-color:purple;
+    width:100%;
+    height:120%;
+}
+.Banner-text{
+    top-margin:50%;
+    left-margin:50%;
+
+    transform:transform;
+    }
